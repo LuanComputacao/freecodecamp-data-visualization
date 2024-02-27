@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp-data-visualization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LuanComputacao/freecodecamp-data-visualization.git",
+  "author": "LuanComputacao <eng.luanroger@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}

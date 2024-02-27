@@ -1,0 +1,13 @@
+:root{
+    --test-box-height: 211px;
+}
+
+body {
+    padding: var(--test-box-height) 0 0;
+    margin: 0;
+    width: 100vw;
+    height: calc(100vh - var(--test-box-height));
+    /* background: linear-gradient(90deg, #000000 0%, #14213d 100%); */
+    /* color: #fff5d1 !important; */
+    box-sizing: border-box;
+}
